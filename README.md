@@ -8,4 +8,4 @@ Notes and resources
 6 - Bruteforcing Domain Password using crackmapexec
 
 
-# MOTIVATED BY THE ACTIVE DIRECTORY VIDEOS OF JOHN HAMMMOND'S PLAYLIST IN YOUTUBE #
+# From the Active directory Videos of John Hammond's playlist in YouTube #
