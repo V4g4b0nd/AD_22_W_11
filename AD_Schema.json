@@ -1,0 +1,39 @@
+	{
+			
+		"groups" :[
+				{
+						"name":"Engineering"
+
+
+
+				}
+
+		],
+
+
+		"users":[
+
+			{
+
+					"first_name":"Tony",
+					"last_name":"Stark",
+					"password":"jarvis",
+					"username":"TStark",
+
+					"groups":
+
+					[
+					
+					"Engineering"
+
+
+					]
+
+			}	
+
+				]
+
+
+
+
+	}
